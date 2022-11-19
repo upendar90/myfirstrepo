@@ -1,3 +1,0 @@
-this is my intial content
-
-this is master new branch content
